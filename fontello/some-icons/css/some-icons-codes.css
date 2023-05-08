@@ -1,0 +1,13 @@
+
+.icon-dollar:before { content: '\e800'; } /* '' */
+.icon-lock:before { content: '\e801'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-lifebuoy:before { content: '\f1cd'; } /* '' */
+.icon-gwallet:before { content: '\f1ee'; } /* '' */
+.icon-cc-visa:before { content: '\f1f0'; } /* '' */
+.icon-cc-discover:before { content: '\f1f2'; } /* '' */
+.icon-cc-paypal:before { content: '\f1f4'; } /* '' */
+.icon-cc-stripe:before { content: '\f1f5'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; } /* '' */
